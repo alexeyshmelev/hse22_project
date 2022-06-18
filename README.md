@@ -12,4 +12,10 @@
 | Plasmodium_coatneyi | 27685530 | 14 | 5575 | 50.81 |
 | Plasmodium_cynomolgi_strain_B | 26181343 | 1663 | 5776 | 48.2 |
 
+### Информация по полученным гомологичным кластерам
+
+Всего кластеров: 5177
+
+![image](https://user-images.githubusercontent.com/60858323/174429590-fec095c1-b6c7-4348-af30-73ec7a570c34.png)
+
 ## Бонусная часть
