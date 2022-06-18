@@ -4,8 +4,8 @@
 
 |  | Длина генома | Количество скаффолдов | Количество аннотированных генов | Доля аннотированных генов | Количество участков с Z-DNA | Общаа длина участков Z-DNA |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Plasmodium_vivax | 27013691 |
-| Plasmodium_fragile | 25914542 |
-| Plasmodium_inui_San_Antonio_1 | 27405027 |
-| Plasmodium_coatneyi | 27685530 |
-| Plasmodium_cynomolgi_strain_B | 26181343 |
+| Plasmodium_vivax | 27013691 | 2748 |
+| Plasmodium_fragile | 25914542 | 248 |
+| Plasmodium_inui_San_Antonio_1 | 27405027 | 323 |
+| Plasmodium_coatneyi | 27685530 | 14 |
+| Plasmodium_cynomolgi_strain_B | 26181343 | 1663 |
