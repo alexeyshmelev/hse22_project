@@ -12,6 +12,15 @@
 | Plasmodium_coatneyi | 27685530 | 14 | 5575 | 50.81 |
 | Plasmodium_cynomolgi_strain_B | 26181343 | 1663 | 5776 | 48.2 |
 
+### Гистограммы значений ZH-score
+
+![Plasmodium_inui_San_Antonio_1_hist](https://user-images.githubusercontent.com/60858323/174435846-58ca728d-c96c-4242-b1fe-16601e4b648a.jpg)
+![Plasmodium_cynomolgi_strain_B_hist](https://user-images.githubusercontent.com/60858323/174435847-d1eb31c4-5e96-4fea-9c4c-6186cf59354c.jpg)
+![Plasmodium_coatneyi_hist](https://user-images.githubusercontent.com/60858323/174435849-c3ef2d1f-3a9a-4b0a-9009-9305ee333cc1.jpg)
+![Plasmodium_fragile_hist](https://user-images.githubusercontent.com/60858323/174435852-b29ddc23-5740-469d-960d-43b4a23ec174.jpg)
+![Plasmodium_vivax_hist](https://user-images.githubusercontent.com/60858323/174435856-ce95b0fd-56cf-4991-baf5-e187aa6653a8.jpg)
+
+
 ### Информация по полученным гомологичным кластерам
 
 Всего кластеров: 5177
